@@ -1,0 +1,70 @@
+#background {
+    background-image: url(images/background.jpg);
+    background-attachment: fixed;
+background-size: cover;
+    background-repeat: no-repeat;   
+}
+nav .container .navbar-brand {
+    display: inline-flex;
+}
+
+
+#table-bordered {
+    margin: 1000px;
+}
+
+a.navbar-brand p {
+    margin-top: 13%;
+    margin-left: 10px;
+}
+.navbar-nav li a:hover {
+    background-color: #343a40;
+    color:#fff !important;
+    border-radius: 4px;
+    transition:
+}
+
+#background-home{
+	background-image: url(images/home----back.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+
+#login {
+    margin-top: 3%;
+}
+
+#description {
+    text-align: center;
+}
+
+.btn-chino {
+    color: white;
+    border: green ;
+    background-color: green ;
+}
+
+li { 
+    border-left: solid 1px white ;
+    background-color: green ;
+}
+
+li a {
+    color: white;
+}
+
+.chino-active {
+    color: white;
+    background-color:green ;
+}
+
+#chino {
+	background-color: white;
+} 
+#tiffa {
+	background-color: white;
+	border-left: solid 1px white ;
+}
+
+
